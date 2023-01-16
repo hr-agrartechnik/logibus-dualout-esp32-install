@@ -1,5 +1,5 @@
 {
-  "name": "LOGIBUS Datapanel ESP32 esp-idf-v5.0",
+  "name": "LOGIBUS DualOut ESP32 esp-idf-v5.0",
   "version": "0.100",
   "home_assistant_domain": "slim_player",
   "builds": [
